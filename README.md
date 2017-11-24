@@ -10,3 +10,4 @@ emm,now I am going to share some expriences with you!
 2.进阶学习了Android群英传
 3.（我觉得是最容易但是最大的收获）在图书馆发现了新的书架，以及掌握了如何找到一本书
 4.复习了数学
+这是一个学习MarkDown的网站：http://www.ituring.com.cn/article/775
