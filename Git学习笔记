@@ -7,34 +7,35 @@ touch a.md （新建a.md文件）
 
 git init
 
-git status    //查看缓存区状态 
+git status                     //查看缓存区状态 
 
-git add       //将文件加入缓存区
+git add                        //将文件加入缓存区
 
-git commit -m ”first commi"     //引号内为对本次提交的说明
-git commit --amend              //修改上一条提交信息
+git commit -m ”first commi"    //引号内为对本次提交的说明
+git commit --amend             //修改上一条提交信息
 
-git log                         //可以查看所有产生的 commit 记录
+git log                        //可以查看所有产生的 commit 记录
 
 git diff     //查看当前工作树与缓存区的区别
 
 git diff HEAD //查看当前工作树与最新提交的区别
 
-git branch    //显示分支
+git branch                      //显示分支
+git branch -D branchname        //删除分支
 
-git log --graph   //以图表形式查看分支
+git log --graph                 //以图表形式查看分支
 
-git branch branchname       //创建一个分支
-git checkout branchname     //切换到这个分支
-git checkout -b branchname  //创建并切换到这个分支
+git branch branchname           //创建一个分支
+git checkout branchname         //切换到这个分支
+git checkout -b branchname      //创建并切换到这个分支
 
-git merge --no-ff branchname //将当前分支与制定分支合并
+git merge --no-ff branchname    //将当前分支与制定分支合并
 会跳转到编辑器        先后按下esc以及:wq
 
-git reset --hard 哈希值               //回溯历史版本
-git reflog              //查看当前仓库的操作日志（能获得不同时间的哈希值）
+git reset --hard 哈希值          //回溯历史版本
+git reflog                      //查看当前仓库的操作日志（能获得不同时间的哈希值）
 
-（未完）git rebase -i               //压缩历史
+（未完）git rebase -i            //压缩历史
 
 推送至远程仓库
 **仓库名要与本地仓库保持一致
