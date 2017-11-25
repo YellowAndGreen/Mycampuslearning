@@ -38,5 +38,6 @@ emm,now I am going to share some expriences with you!
     早上背自己在教材中整理的内容，抽时间整理老师的PPT
     6.数学方面：努力背不定积分公式，做好吉米多维奇
     7.准备近现代史考试
+    8.学习Evernote的用法，Gradle的用法（后者按需学习）
 
 
