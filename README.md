@@ -29,7 +29,7 @@ emm,now I am going to share some expriences with you!
       3.Android开发艺术
       三.数据与算法方面
       先看好那本书，重在每周定时保质量
-第十二周学习计划    --加油
+第十二周学习计划    --加油    --我最害怕的不是我不努力，而是害怕我的努力跟不上别人的努力，我的节奏比别人慢！！！
     1.复习C语言
     2.JAVA方面：JAVA核心技术前三章，JAVA编程思想第二三张
     3.Android方面：复习上一周所学，看完Android群英传，并将之前学习的东西融会贯通
