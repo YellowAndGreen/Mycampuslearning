@@ -59,6 +59,14 @@ emm,now I am going to share some expriences with you!
 
 12.7 思考：1.将最想要做的事放在最后去做，以免它浪费你太多的时间
           2.将每日目标明确化，不要使用大范围的计划比如周计划和年计划，这两个可以有，但是落实到行动上必须是日计划！
+Android学习计划：
+  1.还有新特性ToolBar,Notification没看
+  2.自定义View,ViewGroup和SurFaceView没看
+  3.ListView和RecycleView，Cardview没看
+  4.实例提高没看
+  5.然后是网络相关的java流和retrofit,okhttp等等
+  6.以上看完后可以一边复习，一遍看看几个实例，构思一下自己想做的东西，在下周末之前做完
+  7.加油加油加油
 
 
 
